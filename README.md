@@ -243,12 +243,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
 
-Oscar Lee</br>
-Email: mail.oscar.lee@gmail.com</br>
-LinkedIn: [https://www.linkedin.com/in/oscarlee1](https://www.linkedin.com/in/oscarlee1)</br>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
